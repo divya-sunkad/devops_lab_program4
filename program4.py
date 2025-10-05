@@ -4,3 +4,7 @@ add=a+b
 sub=a-b
 print("ADDITION",add)
 print("SUBSTRACTION",sub)
+mul=a*b
+div=a/b
+print("MULLTiPLICATION",mull)
+print("DIVISION",div)
